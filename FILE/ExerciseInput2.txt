@@ -1,0 +1,4 @@
+P is a copy of what was
+initially S.
+For the sake of efficiency, as will become
+    clear later, we want the heap to have as small a height as possible.A binary tree that stores a collection of        keys at its internal nodes and that satisfies two addition properties.
